@@ -21,6 +21,9 @@ These DSA problems will help to improve your problem-solving skills and prepare 
 - Hollow triangle
 - Inverted triangle
 
+### Strings
+- String reversal
+
 ## Goal
 
 - Practice DSA daily
